@@ -7,7 +7,29 @@
         <<script type="text/javascript"></script>
     </head>
     <body>
-        header>(div.logo+div.menu>ul.carrinho>li*3)+nav>ul>li*8   
+        <header>
+            <div class="logo"></div>
+            <div class="menu">
+                <ul class="carrinho">
+                    <li>seu carrinho</li>
+                    <li>sobre nos</li>
+                    <li>perguntas frequentes</li>
+                </ul>
+            </div>
+            <nav>
+                <ul>
+                    <li></li>
+                    <li></li>
+                    <li></li>
+                    <li></li>
+                    <li></li>
+                    <li></li>
+                    <li></li>
+                    <li></li>
+                </ul>
+            </nav>
+        </header>
+        
     </body>
 </html>
 

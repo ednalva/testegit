@@ -18,9 +18,9 @@
             </div>
             <nav>
                 <ul>
-                    <li></li>
-                    <li></li>
-                    <li></li>
+                    <li>home</li>
+                    <li>agile</li>
+                    <li>front-end</li>
                     <li></li>
                     <li></li>
                     <li></li>
